@@ -14,7 +14,8 @@ Both these networks act like competitors. The Generator tries to fool the Discri
 Training GAN’s is always challenging and requires a lot of processing power. I made use of Google Colab.
 
 **Generator**
- The generator takes in a fixed-length input vector (in my case column vector of 100), it is randomly drawn from the Gaussian distribution using NumPy. The amin difference between DGAN and GAN is the use of Transposed Convolutional layers for up-sampling images. The final layer outputs images of shape **64 x 64 x 3). Activation: Leaky Relu, Tanh(for final layer). Output of this network is given as input to the Discriminator along with real images in batches. 
+ The generator takes in a fixed-length input vector (in my case column vector of 100), it is randomly drawn from the Gaussian distribution using NumPy. The amin difference between DGAN and GAN is the use of Transposed Convolutional layers for up-sampling images. The final layer outputs images of shape (64 x 64 x 3). Activation: Leaky Relu, Tanh(for final layer). Output of this network is given as input to the Discriminator along with real images in batches. 
+ 
 **Discriminator**
 The discriminator is a simple convolutional neural network for identifying features in an image. Since the discriminator’s task is to differentiate between real and fake images “binary crossentropy” is used as a loss function. I have used Adam optimizer. Activation: Leaky Relu, Sigmoid(for final layer).
 
