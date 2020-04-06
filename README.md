@@ -1,7 +1,9 @@
 # Pokemon-DCGAN
 pokemon, dcgan
 
-Deep Convolutional Generative Adversarial Network (DCGAN)
+![alt-txt](https://github.com/NikhilNandoskar/Pokemon-DCGAN/blob/master/PokeGAN_Result.gif)
+
+**Deep Convolutional Generative Adversarial Network (DCGAN)**
 Before diving in DCGAN it is important to have a brief idea about Generative Adversarial Network (GAN). 
 DCGAN is of the many flavors of GANs.
 
