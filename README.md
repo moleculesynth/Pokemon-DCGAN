@@ -6,6 +6,7 @@ pokemon, dcgan
 Final output of GAN after 100 epochs
 
 **Deep Convolutional Generative Adversarial Network (DCGAN)**
+
 Before diving in DCGAN it is important to have a brief idea about Generative Adversarial Network (GAN). 
 DCGAN is of the many flavors of GANs.
 
