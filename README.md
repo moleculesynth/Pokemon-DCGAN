@@ -1,8 +1,9 @@
 # Pokemon-DCGAN
 pokemon, dcgan
 
-<img src="https://github.com/NikhilNandoskar/Pokemon-DCGAN/blob/master/PokeGAN_Result.gif" width="500" height="500" />
+<img src="https://github.com/NikhilNandoskar/Pokemon-DCGAN/blob/master/PokeGAN_Result.gif" width="400" height="400" />
 
+Final output of GAN after 100 epochs
 
 **Deep Convolutional Generative Adversarial Network (DCGAN)**
 Before diving in DCGAN it is important to have a brief idea about Generative Adversarial Network (GAN). 
