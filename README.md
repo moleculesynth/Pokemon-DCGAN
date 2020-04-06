@@ -1,9 +1,8 @@
 # Pokemon-DCGAN
 pokemon, dcgan
 
-<img src="https://github.com/NikhilNandoskar/Pokemon-DCGAN/blob/master/PokeGAN_Result.gif" width="40" height="40" />
+<img src="https://github.com/NikhilNandoskar/Pokemon-DCGAN/blob/master/PokeGAN_Result.gif" width="500" height="500" />
 
-![alt-txt](https://github.com/NikhilNandoskar/Pokemon-DCGAN/blob/master/PokeGAN_Result.gif)
 
 **Deep Convolutional Generative Adversarial Network (DCGAN)**
 Before diving in DCGAN it is important to have a brief idea about Generative Adversarial Network (GAN). 
